@@ -6,14 +6,7 @@ import "./App.css";
 
 function App() {
   const reviews = [
-    {
-      name: "Kistechno Pvt Ltd",
-      text: "Umang demonstrated strong teamwork and communication skills while collaborating with cross-functional teams."
-    },
-    {
-      name: "Sharvin Management Company",
-      text: "He monitored and analyzed website analytics to improve SEO performance and digital growth."
-    },
+     
     {
       name: "JECRC INNOV8",
       text: "Successfully completed hackathon with strong technical execution and innovation."
