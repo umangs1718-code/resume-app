@@ -24,7 +24,7 @@ function App() {
     },
     {
       name: "Company Page",
-      link: "#"
+      link: "https://polite-gumption-6064f6.netlify.app/"
     },
     {
       name: "Social Wellness Hub",
