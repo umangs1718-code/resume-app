@@ -58,7 +58,7 @@ function App() {
         <p>MERN Stack Developer | AI & Data Science Student</p>
         <div className="contact-info">
           <span>📞 +91 6375331059</span>
-          <span>📧 umang962@gmail.com</span>
+          <span>📧 umangs1718@gmail.com</span>
           <span>📍 Jaipur, Rajasthan</span>
         </div>
       </section>
