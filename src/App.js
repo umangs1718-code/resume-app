@@ -36,7 +36,7 @@ function App() {
     },
     {
       name: "Iida-Webpage",
-      link: " "
+      link: "https://polite-gumption-6064f6.netlify.app/"
     },
     {
       name: "Vista-Webpage",
