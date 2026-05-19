@@ -19,7 +19,7 @@ function App() {
 
   const projects = [
     {
-      name: "Leave Management System",
+      name: "Leave Management",
       link: "https://learndevprojects.vercel.app/"
     },
     {
