@@ -119,8 +119,7 @@ function App() {
         <div className="card">
           <p>B.Tech in AI & Data Science (2024-2028)</p>
           <p>JECRC University, Jaipur</p>
-          <p>Class 12th </p>
-          <p>Class 10th </p>
+        
         </div>
       </section>
 
