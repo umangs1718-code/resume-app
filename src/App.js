@@ -124,7 +124,7 @@ function App() {
       </section>
 
       <footer>
-        © {new Date().getFullYear()} Umang Jain | Built By Umang Jain
+        © {new Date().getFullYear()} Umang | Built By Umang Jain
       </footer>
     </div>
   );
