@@ -27,7 +27,7 @@ function App() {
       link: "https://polite-gumption-6064f6.netlify.app/"
     },
     {
-      name: "Social Wellness Hub",
+      name: "Social Wellness ",
       link: "https://vermillion-klepon-da02f9.netlify.app/"
     },
     {
