@@ -13,7 +13,7 @@ function App() {
     },
     {
       name: "CROCO-CODE",
-      text: "Successfully completed the internship with strong technical execution and innovation. A web developer with a passion for creating engaging user experiences."
+      text: "Successfully completed the internship with strong technical execution and innovation. A web developer with a passion for creating engaging user experience."
     }
   ];
 
