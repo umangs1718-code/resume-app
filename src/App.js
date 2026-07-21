@@ -8,8 +8,8 @@ function App() {
   const reviews = [
      
     {
-      name: "JECRC INNOV8",
-      text: "Successfully completed hackathon with strong technical execution and innovation."
+      name: "JECRC INNOV 8",
+      text: "Successfully completed hackathon with strong technical executions and innovation."
     },
     {
       name: "CROCO-CODE",
