@@ -9,7 +9,7 @@ function App() {
      
     {
       name: "JECRC INNOV 8",
-      text: "Successfully completed hackathon with strong technical execution and innovation."
+      text: "Successfully completed hackathon with strong technical execution and innovation with my Team."
     },
     {
       name: "CROCO-CODE",
